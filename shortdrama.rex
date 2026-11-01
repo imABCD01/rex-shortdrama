@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "3.4.16",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.hongguo.clean.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.hongguo.clean.js?v=3.4.16"
     },
     {
       "id": "forward.hongguo.danmu",
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.5.4",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.hongguo.danmu.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.hongguo.danmu.js?v=1.5.4"
     },
     {
       "id": "forward.qimao.short-drama",
@@ -28,7 +28,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.4",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.qimao.short-drama.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.qimao.short-drama.js?v=1.0.4"
     },
     {
       "id": "forward.xingya.short-drama",
@@ -37,7 +37,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.2",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.xingya.short-drama.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.xingya.short-drama.js?v=1.0.2"
     },
     {
       "id": "forward.hema.short-drama",
@@ -46,7 +46,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.hema.short-drama.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.hema.short-drama.js?v=1.0.0"
     },
     {
       "id": "forward.xifan.short-drama",
@@ -55,7 +55,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.xifan.short-drama.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.xifan.short-drama.js?v=1.0.0"
     },
     {
       "id": "forward.weiguan.short-drama",
@@ -64,7 +64,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.weiguan.short-drama.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.weiguan.short-drama.js?v=1.0.0"
     },
     {
       "id": "forward.huolong.short-drama",
@@ -73,7 +73,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.huolong.short-drama.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.huolong.short-drama.js?v=1.0.1"
     },
     {
       "id": "forward.youman.short-drama",
@@ -82,7 +82,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.youman.short-drama.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.youman.short-drama.js?v=1.0.0"
     },
     {
       "id": "forward.haokan.short-drama",
@@ -91,7 +91,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.1",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.haokan.short-drama.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.haokan.short-drama.js?v=1.0.1"
     },
     {
       "id": "forward.meiyao.short-drama",
@@ -100,7 +100,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.4.7",
       "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.meiyao.short-drama.js"
+      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.meiyao.short-drama.js?v=1.4.7"
     }
   ]
 }
