@@ -1,17 +1,10 @@
+移除前: 11 个模块
+移除后: 10 个模块
 {
   "title": "𝓢𝓱𝓸𝓻𝓽𝓓𝓻𝓪𝓶𝓪",
   "description": "",
   "icon": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/logo.png",
   "widgets": [
-    {
-      "id": "forward.hongguo.clean",
-      "title": "红果漫剧",
-      "description": "红果短剧与漫剧的分类、搜索和播放，优先1080p。",
-      "requiredVersion": "0.0.1",
-      "version": "3.4.16",
-      "author": "balge",
-      "url": "https://testingcf.jsdelivr.net/gh/imABCD01/rex-shortdrama@main/modules/forward.hongguo.clean.js?v=3.4.16"
-    },
     {
       "id": "forward.hongguo.danmu",
       "title": "通用短剧弹幕",
